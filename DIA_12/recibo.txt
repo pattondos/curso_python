@@ -1,0 +1,25 @@
+No. Recibo: 4418
+Fecha: 11/11/2024 - 19:17
+*******************************************************
+Items		Cant		Costo
+-------------------------------------------------------
+Pescado		1		$15.65
+Albóndigas		5		$86.1
+Burrito		1		$27.05
+Agua horchata		1		$54.99
+Cerveza corona		2		$34.16
+Cerveza Victoria		2		$58.0
+Tiramisú		1		$12.54
+Volovan		2		$42.28
+Fresas crema		1		$13.94
+-------------------------------------------------------
+Costo total comida:		$ 128.8
+Costo total bebida:		$ 147.15
+Costo total postre:		$ 68.76
+-------------------------------------------------------
+Subtotal:		$ 344.71
+Impuestos:		$ 55.15
+Total:		$ 399.86
+*******************************************************
+¡Gracias por su visita!
+Si la ve, me la saluda.
